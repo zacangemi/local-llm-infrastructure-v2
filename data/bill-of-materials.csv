@@ -1,0 +1,14 @@
+component,origin,purchase_date,vendor,item_price,protection_plan,shipping,pre_tax_total,sales_tax,post_tax_total,installed_state
+Noctua NH-U14S TR5-SP6 CPU cooler,New for V2,2026-01-13,Micro Center,139.99,0.00,0.00,139.99,12.08,152.07,Installed
+ASUS Pro WS WRX90E-SAGE SE motherboard,New for V2,2026-02-03,Micro Center,1199.99,139.99,0.00,1339.98,115.64,1455.62,Installed
+Phanteks Enthoo Pro II Server Edition TG chassis,New for V2,2026-01-06,Phanteks,189.99,0.00,40.00,229.99,0.00,229.99,Installed
+AMD Ryzen Threadripper PRO 9955WX,New for V2,2026-05-06,Micro Center,1499.99,139.99,0.00,1639.98,141.53,1781.51,Installed
+Kingston FURY Renegade Pro 128 GB DDR5-6400 ECC RDIMM kit,New for V2,2026-05-22,CDW,3686.48,0.00,50.98,3737.46,322.35,4059.81,Installed
+10x Phanteks T30-120 fan order,New for V2,2026-03-12,Phanteks,384.96,0.00,0.00,384.96,0.00,384.96,10 installed across both fan orders
+1x Phanteks T30-120 add-on fan,New for V2,2026-04-21,Phanteks,39.99,0.00,5.00,44.99,4.00,48.99,One spare across both fan orders
+Samsung 9100 PRO 2 TB PCIe 5.0 NVMe,Gifted for V2,2025-12-18,Amazon,304.97,0.00,0.00,304.97,21.35,326.32,Installed
+NVIDIA RTX 3090 Founders Edition GPU 0,V1 carryover,2024-11-03,Micro Center,629.96,79.99,0.00,709.95,61.27,771.22,Installed
+NVIDIA RTX 3090 Founders Edition GPU 1,V1 carryover,2024-11-26,Micro Center,699.99,79.99,0.00,779.98,54.60,834.58,Installed
+Corsair AX1600i 1600 W power supply,V1 carryover,2024-11-10,Micro Center,609.99,0.00,0.00,609.99,52.61,662.60,Installed
+Corsair 12-pin GPU power cable GPU 0,V1 carryover,2024-11-11,Corsair,19.99,0.00,9.99,29.98,2.59,32.57,Installed
+Corsair 12-pin GPU power cable GPU 1,V1 carryover,2024-11-29,Corsair,16.99,0.00,9.99,26.98,2.33,29.31,Installed

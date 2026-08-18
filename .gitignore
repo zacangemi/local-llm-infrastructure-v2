@@ -1,0 +1,28 @@
+# Private evidence and purchasing records
+private/
+receipts/
+raw-evidence/
+serials/
+network-inventory/
+
+# Local drafting material retained outside the public repository surface
+docs/BLOG-*.md
+docs/wordpress-build-overview-and-cost.html
+docs/cpu-upgrade-path.md
+
+# Environment and editor state
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+
+# Raw logs and unredacted media metadata
+*.log
+*.pcap
+*.pcapng
+*.exif
+assets/originals/
