@@ -1,5 +1,7 @@
 # Architecture and platform decisions
 
+> Companion narrative: [My New AI Cluster: Go Big or Go Home, Part 1](https://blog.zacharycangemi.com/2026/08/18/my-new-ai-cluster-go-big-or-go-home-part-1/)
+
 ## The central decision
 
 V2 was designed around the platform rather than around a new GPU purchase. The two RTX 3090 Founders Edition cards remained useful, but V1 showed that consumer-platform lane allocation, physical spacing, memory capacity, operating-system friction, and recovery options could limit otherwise capable accelerators.

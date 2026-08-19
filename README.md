@@ -177,6 +177,7 @@ The validator reconciles the public CSV to the published totals, verifies requir
 
 ## Related work
 
+- [Part 1 build article: My New AI Cluster: Go Big or Go Home, Part 1](https://blog.zacharycangemi.com/2026/08/18/my-new-ai-cluster-go-big-or-go-home-part-1/)
 - [V1 build article: 48 GB of VRAM and a Dream](https://blog.zacharycangemi.com/2026/04/29/48-gb-of-vram-and-a-dream-part-1-the-build/)
 - [V1 infrastructure repository](https://github.com/zacangemi/local-llm-infrastructure)
 - [Local LLM Inference Lab](https://github.com/zacangemi/local-llm-inference-lab)

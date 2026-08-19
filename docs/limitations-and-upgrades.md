@@ -1,5 +1,7 @@
 # Limitations and upgrade path
 
+> Companion narrative: [My New AI Cluster: Go Big or Go Home, Part 1](https://blog.zacharycangemi.com/2026/08/18/my-new-ai-cluster-go-big-or-go-home-part-1/)
+
 V2 is operational and intentionally expandable. It is not presented as perfect or complete forever.
 
 ## Current limitations

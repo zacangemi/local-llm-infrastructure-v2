@@ -1,5 +1,7 @@
 # Build notes
 
+> Companion narrative: [My New AI Cluster: Go Big or Go Home, Part 1](https://blog.zacharycangemi.com/2026/08/18/my-new-ai-cluster-go-big-or-go-home-part-1/)
+
 This is the public assembly record for Part 1. It describes the build process without exposing receipt identifiers, hardware serials, network details, or private evidence paths.
 
 ## Before assembly
