@@ -1,5 +1,7 @@
 # Airflow and cooling design
 
+> Companion narrative: [My New AI Cluster: Go Big or Go Home, Part 1](https://blog.zacharycangemi.com/2026/08/18/my-new-ai-cluster-go-big-or-go-home-part-1/)
+
 The cooling objective was sustained, remote operation with simple serviceability. The machine is entirely air-cooled: ten Phanteks T30-120 chassis fans plus the two NF-A15 fans supplied with the Noctua CPU cooler.
 
 <p align="center">

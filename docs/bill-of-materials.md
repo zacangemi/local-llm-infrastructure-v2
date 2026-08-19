@@ -1,6 +1,6 @@
 # Public bill of materials
 
-This ledger reproduces the cost scope used by the published Part 1 article. Store locations, receipt/order identifiers, payment details, serial numbers, and private evidence paths are intentionally omitted.
+This ledger reproduces the cost scope used by [the published Part 1 article](https://blog.zacharycangemi.com/2026/08/18/my-new-ai-cluster-go-big-or-go-home-part-1/). Store locations, receipt/order identifiers, payment details, serial numbers, and private evidence paths are intentionally omitted.
 
 ## Accounting definitions
 
